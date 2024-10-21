@@ -4,8 +4,10 @@ Flowde is a library meant to help you out remember syntax from python using a si
 pip install flowde
 ```
 # Current Uses:
-**• flowde.add(5 + 5)**,
-**• flowde.text("Text here <--")**
+```py
+flowde.num(5 + 5) # Outputs: 10
+flowde.text("Text here <--") # Outputs your text
+```
 More Uses will be added in the future.
 # CLI Scripts
 **flowde** - Tells if Flowde is successfully installed
