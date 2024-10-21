@@ -10,6 +10,8 @@ flowde.text("Text here <--") # Outputs your text
 ```
 More Uses will be added in the future.
 # CLI Scripts
-**flowde** - Tells if Flowde is successfully installed
-**flowde --version** - Checks Flowde's version
-**flowde --phase** - Displays the current development stage of Flowde
+```bash
+flowde # Tells if Flowde is successfully installed
+flowde --version # Checks Flowde's version
+flowde --phase # Displays the current development stage of Flowde
+```
