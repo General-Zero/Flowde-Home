@@ -1,17 +1,17 @@
 # Flowde Documents
-Flowde is a python library made to help you code, write simple codes. Currently, Flowde is in the stage of alpha and being currently developed by me (General-Zero).
-# Getting Started
-## Dependencies
-Flowde 0.0.3 needs **Colorama** to give you better experience with colored text, to install colorama, open your terminal and do:
+`Flowde` is a python library made to help you design, see syntax from python!
+## Getting Started
+### Dependencies
+Flowde `0.0.3` requires **Colorama** to enhance your experience in the terminal or console with colored text! To install `colorama`, use the bash command before installing `Flowde`:
 ```bash
 pip install colorama
 ```
-## Installing Flowde
-To install Flowde, use the bash command:
+### Installing Flowde
+To install `Flowde`, use the bash command:
 ```bash
 pip install flowde
 ```
-## Latest Functions:
+### Latest Functions:
 ```py
 flowde.num(5 + 5) # Outputs: 10
 flowde.text("Text here <--") # Outputs your text
@@ -23,5 +23,5 @@ More functions will be added in the future.
 ```bash
 flowde # Tells if Flowde is successfully installed
 flowde --version # Checks Flowde's version
-flowde --phase # Displays the current development stage of Flowde
+flowde --devst # Displays the current development stage of Flowde
 ```
