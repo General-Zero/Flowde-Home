@@ -14,6 +14,7 @@ pip install flowde
 ```
 ### Latest Syntax:
 ```py
+import flowde
 flowde.num(5 + 5) # Outputs: 10
 flowde.text("Text here <--") # Outputs your text
 flowde.ttkn('Example Text Token') # Outputs 3
