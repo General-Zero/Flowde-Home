@@ -2,7 +2,7 @@
 `Flowde` is a python library made to guide you in python!
 ## Getting Started:
 ### Dependencies
-Flowde `0.0.3` requires **Colorama** and **Requests** to enhance your experience in the terminal or console with colored text and for web scraping. To install `colorama` and `requests`, use the bash command before installing `Flowde`:
+Flowde `Latest version` requires **Colorama** and **Requests** to enhance your experience in the terminal or console with colored text and for web scraping. To install `colorama` and `requests`, use the bash command before installing `Flowde`:
 ```bash
 pip install colorama
 pip install requests
