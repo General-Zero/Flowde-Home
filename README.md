@@ -1,31 +1,12 @@
-# About Flowde
-`Flowde` is a python library made to guide you in python!
-## Getting Started:
-### Dependencies
-Flowde `Latest version` requires **Colorama** and **Requests** to enhance your experience in the terminal or console with colored text and for web scraping. To install `colorama` and `requests`, use the bash command before installing `Flowde`:
-```bash
-pip install colorama
-pip install requests
-```
-### Installing Flowde
-To install `Flowde`, use the bash command:
-```bash
-pip install flowde
-```
-### Latest Syntax:
-```py
-import flowde
-flowde.num(5 + 5) # Outputs: 10
-flowde.text("Text here <--") # Outputs your text
-flowde.ttkn('Example Text Token') # Outputs 3
-flowde.flowdehelp() # Needs an input but can be empty for help; Outputs some stuff
-```
-More functions will be added in the future.
-## CLI Scripts
-```bash
-flowde # Tells if Flowde is successfully installed
-flowde --version # Checks Flowde version
-flowde --devst # Displays the current development stage of Flowde
-flowde --dependencies # Shows what dependencies has been installed
-flowde --syntax # Shows the syntax of Flowde
-```
+# Flowde
+|URL|Badges|
+|---|---|
+|[![Badge](https://img.shields.io/badge/Flowde-Source-blue)](https://github.com/General-Zero/Flowde)|![PyPI Downloads](https://static.pepy.tech/badge/flowde)|
+
+Thank you for supporting me! I'll do my best to maintain and improve flowde
+## About Flowde
+Flowde is a multi-purpose tool to assess you with code
+## Dependencies and Licenses
+Flowde is licensed under [Apache Software 2.0 License](https://github.com/General-Zero/Flowde/blob/main/LICENSE)  
+**Request Library** is licensed under [Apache Software 2.0 License](https://github.com/psf/requests/blob/main/LICENSE)  
+**Flask Library** is licensed under [BSD-3-Clause License](https://github.com/pallets/flask/blob/main/LICENSE.txt)
