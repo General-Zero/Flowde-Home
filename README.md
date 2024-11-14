@@ -5,7 +5,7 @@
 
 Thank you for supporting me! I'll do my best to maintain and improve flowde
 ## About Flowde
-Flowde is a multi-purpose tool to assess you with code
+Flowde is a multi-purpose tool to assist you in coding with python
 ## Licenses
 `Flowde` is licensed under [Apache Software 2.0 License](https://github.com/General-Zero/Flowde/blob/main/LICENSE) 
 ## Dependencies Licenses
