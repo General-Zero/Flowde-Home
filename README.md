@@ -18,7 +18,7 @@ To `install Flowde`, run the command below in you're `Terminal:`
 python -m pip install flask requests
 ```
 ### Step 2: Installing Flowde
-Run `python -m pip install flowde` at you're terminal, for a specific version of flowde, use `python -m pip install flowde==your-version`
+Run `python -m pip install flowde` at you're Terminal, for a specific version of Flowde, use `python -m pip install flowde==you're-version`
 ### Step 3: Checking if Flowde is running
 To make sure `Flowde is working correctly,` run:
 ```bash
