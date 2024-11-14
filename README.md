@@ -13,7 +13,7 @@ The `Requests Library` is licensed under [Apache Software 2.0 License](https://g
 The `Flask Library` is licensed under [BSD-3-Clause License](https://github.com/pallets/flask/blob/main/LICENSE.txt)
 ## Manual on how to operate Flowde
 ### Step 1: Installing dependencies
-To `install Flowde`, run the command below in your `Terminal:`
+To `install the Dependencies`, run the command below in your `Terminal:`
 ```bash
 python -m pip install flask requests
 ```
